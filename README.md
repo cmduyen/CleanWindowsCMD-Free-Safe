@@ -1,11 +1,13 @@
 # 🚀 Windows Cleanup Utility
 
-**A lightweight, no-installation batch script to safely clean junk files from your Windows system**
-
 ![Batch Script](https://img.shields.io/badge/Type-Batch_Script-blue) 
 ![No Installation](https://img.shields.io/badge/Requires-No_Installation-green) 
 ![Free](https://img.shields.io/badge/Price-Free-success) 
 ![Safe](https://img.shields.io/badge/Safety-Non_destructive-yellow)
+
+[![File-Cleanup-Utilities-min.png](https://i.postimg.cc/XJTQzsQt/File-Cleanup-Utilities-min.png)](https://postimg.cc/TLJVyJ8c)
+
+**A lightweight, no-installation batch script to safely clean junk files from your Windows system**
 
 ## ✨ Key Features
 
