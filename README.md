@@ -59,4 +59,4 @@ This script is provided as-is. The author is not responsible for any data loss. 
 
 ---
 
-Made with ❤️ for Windows users | JustDuyen
+Made with ❤️ for everyone by JustDuyen
